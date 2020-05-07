@@ -5,13 +5,12 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": ">=7.0.0",
-        "fideloper/proxy": "~3.3",
-        "laravel/cashier": "~7.0",
-        "laravel/framework": "5.5.*",
-        "laravel/passport": "^4.0",
-        "laravel/spark": "~5.0",
-        "laravel/tinker": "~1.0"
+        "php": "^7.2",
+        "fideloper/proxy": "^4.0",
+        "laracasts/utilities": "^3.0",
+        "laravel/framework": "^6.2",
+        "laravel/socialite": "^4.3",
+        "laravel/tinker": "^2.0"
     },
     "require-dev": {
         "filp/whoops": "~2.0",
